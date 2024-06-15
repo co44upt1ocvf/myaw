@@ -1,0 +1,3 @@
+C:/Users/ovtsu/CLionProjects/pract9/cmake-build-debug/CMakeFiles/pract9.dir
+C:/Users/ovtsu/CLionProjects/pract9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ovtsu/CLionProjects/pract9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
